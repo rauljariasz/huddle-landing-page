@@ -4,12 +4,52 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="./style.css">
-  <title>Page</title>
+
+  <!-- style -->
+  <link rel="stylesheet" href="./mobile.css">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+  
+  <link rel="shortcut icon" href="./assets/favicon-32x32.png" type="image/x-icon">
+  <title>Frontend Mentor | Huddle landing page with single introductory section</title>
 </head>
 <body>
   <main>
-    Hola
+    <img src="./assets/bg-desktop.svg" alt="Imagen de fondo para dispositivos de escritorio" class="bgDesktop" />
+    <img src="./assets/bg-mobile.svg" alt="Imagen de fondo para dispositivos moviles." class="bgMobile" />
+
+    <div class="mainContainer">
+
+      <section class="hero">
+        <img src="./assets/logo.svg" alt="logo de la empresa Huddle" width="125" height="auto" />
+      </section>
+
+      <section class="content">
+        <img src="./assets/illustration-mockups.svg" alt="MockUps">
+        <div>
+          <h1>Build The Community Your Fans Will Love</h1>
+          <p>Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.</p>
+          <button>Register</button>
+        </div>
+      </section>
+
+
+      <section class="contact">
+        <div>
+          <i class="fa-brands fa-facebook-f"></i>
+        </div>
+        <div>
+          <i class="fa-brands fa-twitter"></i>
+        </div>
+        <div>
+          <i class="fa-brands fa-instagram"></i>
+        </div>
+      </section>
+    </div>
   </main>
+  <script src="https://kit.fontawesome.com/ea923e706d.js" crossorigin="anonymous"></script>
 </body>
 </html>
