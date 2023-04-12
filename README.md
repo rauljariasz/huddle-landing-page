@@ -11,9 +11,12 @@ Users should be able to:
 
 ### Designs
 
+![desktop-design](https://user-images.githubusercontent.com/113625378/231341479-9700eec4-c913-4107-8c9c-76467c46cff6.jpg)
+![mobile-design](https://user-images.githubusercontent.com/113625378/231341492-a9d8d683-1c45-4632-8ea5-bd81df78df95.jpg)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/hunddle-landing-only-html-css-k80nXFUCKJ)
+- Live Site URL: [Live site](https://rauljariasz.github.io/huddle-landing-page/)
 
 Made by RJ with 💗.
